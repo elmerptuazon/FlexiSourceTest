@@ -11,4 +11,3 @@
 
 ## Exported Postman Collection 
  - https://drive.google.com/file/d/1XYd9uHrePQVB80srAKWtMP08QjJ2R_me/view?usp=sharing
- - If encountered authenticated please use the 2 Client Token Login Request. It is automatically changing the values of the variable inside so just click Send button. Please refer video shared.
